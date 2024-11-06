@@ -1,0 +1,31 @@
+# contexto 
+Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, com as três variaveis abaixo:
+
+# Area de variaveis
+{{biotipo corporal}} endormofo
+{{dias disponiveis para treino}} 3 dias de treino
+{{tipo de treino}} funcional e cardio
+
+# Regras 
+regras 1
+
+Identificar qual o tipo informado nas variaveis acima tipo corporal vai ser algum do abaixo :
+-Ectomorfo	Corpo mais magro, difícil ganhar peso e massa muscular.
+-Mesomorfo	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+-Endomorfo	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+#Regra 2: Periodização
+dependendo da quantidade minima de dias informado na area de variaveis criar uma das periodizações abaixo:
+1 dia de treino full body
+2 dias de treino ABC
+5 dias de treino ABCDE
+
+#Regra 3: tipo
+ - Funcional	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+	-Maquinário	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+ -Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+ -	Cardio	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+	-HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+  #Resultado esperado
+  com base nos valores informados na area de variaveis e com as guidelines, crie um treino ideal para a apessoa que conrrespode a combinação desses três valores
